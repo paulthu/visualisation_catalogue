@@ -1,19 +1,17 @@
-# 🎈 Blank app template
+# Visualisation Catalogue Stelliant
 
-A simple Streamlit app template for you to modify!
+Voici les instructions pour utiliser le site-web visualisateur du catalogue.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Ouvrir dans Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://catalogvisualisation.streamlit.app/#carte-couverture-geographique)
 
-### How to run it on your own machine
+### Comment l'utiliser
 
-1. Install the requirements
+1. Installer le catalogue en format .xlsm, avec la feuille nommé 'Catalogue Bas Carbone' en suivant le bon format (pas de changements de l'ordre des rangs et des colonnes).
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+2. Charger le catalogue quand vous y êtes invité.
 
-2. Run the app
+3. Si besoin, filtrer par catégorie.
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+4. Cliquer sur une region pour la liste d'entreprises.
+
+5. Cliquer sur une entreprise pour sa fiche d'infos.
